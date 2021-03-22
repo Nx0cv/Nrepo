@@ -1,0 +1,15 @@
+
+Package: com.nx0cv.betternet
+Version: 5.13.0
+Architecture: iphoneos-arm
+Maintainer: Nx0cv <naiyfb1@gmail.com>
+Depends:  
+Conflicts: 
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Size: 362
+MD5sum: d6aab93346ba0a7e68b6fa1c82b23649
+SHA1: a2606ac21880852406dec8db313d8f756a3d8a82
+SHA256: efefc6129c21954088839f22616df0498cd7cab2cb04c9b6d405a6568f887523
+Section: Entertainment
+Depiction: Vpn pro
+Name: Betternet
